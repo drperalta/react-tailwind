@@ -6,7 +6,7 @@ const About = () => (
     <h1 className="font-bold text-xl mb-4">Welcome to About Page</h1>
 
     {/* <CounterSample /> */}
-    <PrevValueSample />
+    {/* <PrevValueSample /> */}
   </main>
 );
 
